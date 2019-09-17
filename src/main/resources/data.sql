@@ -1,0 +1,1 @@
+insert into aliendb.alien values (101,"jane")
